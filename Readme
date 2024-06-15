@@ -1,1 +1,23 @@
 This project is a comprehensive desktop application for managing various aspects of a hospital or healthcare center. Built using Java and NetBeans IDE, the system offers a user-friendly interface for managing patient records, appointments, billing, and hospital staff administration.
+
+Patient Management: Register new patients, update records, and maintain medical history.
+Appointment Scheduling: Schedule patient appointments with doctors and manage availability.
+Billing and Invoicing: Generate bills for services and keep track of payments.
+Doctor and Staff Management: Maintain records of doctors, nurses, and administrative staff.
+Inventory Management: Manage hospital inventory and supplies efficiently.
+Reports and Analytics: Generate reports for patient statistics, revenue, and more.
+
+
+Java: Core programming language for backend logic and GUI development.
+NetBeans IDE: Integrated development environment for Java development.
+Swing: Java's GUI toolkit used for building the user interface.
+MySQL: Database management system for storing and retrieving data.
+
+Installation and Usage
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/hospital-management-system.git
+Open the project in NetBeans IDE.
+Set up MySQL database using provided SQL scripts.
+Build and run the project.
